@@ -1,4 +1,7 @@
-
+/*name:frankline moni
+ADM:PA106/G/28937/25
+	DESCRIPTION:displaying of data purchased by customers
+*/
 
 #include<stdio.h>
 
@@ -35,4 +38,5 @@ main(){
 	
 	
 	return 0;
+
 }
