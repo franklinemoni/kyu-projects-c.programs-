@@ -4,7 +4,7 @@ ADM:PA106/G/28937/25
 DESCRIPTION:program to displayy units for the semester
 */
 
-#include<stdio.h>include 
+#include<stdio.h>
 
 main (){
 	
@@ -21,4 +21,5 @@ main (){
 	
 	
 	return 0;
+
 }
