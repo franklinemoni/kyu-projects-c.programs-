@@ -6,7 +6,7 @@ DESCRIPTION:prompting user to enter age and income with conditions if above
              18yrs and have have income of 21000 annually
 */
 
-#include<stdio.h>include 
+#include<stdio.h>
 
 int main(){
 	
@@ -35,4 +35,5 @@ int main(){
 	
 	
 	return 0;
+
 }
